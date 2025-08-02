@@ -1,6 +1,7 @@
 # Soal
 Pak Dengklek membuka 4 toko kandang bebek. Pada setiap tokonya, ia menjual 3 merek kandang, satu kandang untuk setiap mereknya, dengan ukuran-ukuran sebagai berikut (dalam cm persegi):
 
+```
             Luas kandang merek 1	Luas kandang merek 2	Luas kandang merek3
 Toko 1	    225×335	                299×278	                300×250
 
@@ -9,7 +10,7 @@ Toko 2	    215×394	                144×718	                300×290
 Toko 3	    200×400	                240×333	                142×619
 
 Toko 4	    314×298	                411×198	                333×222
-
+```
 
 Seorang pembeli ingin membeli kandang yang berukuran setidaknya 
 80000 cm persegi. Di antara seluruh kandang dari seluruh toko, ada berapa kandang yang memenuhi? Lengkapilah program di sebelah kanan agar mengeluarkan banyaknya kandang yang memenuhi.
